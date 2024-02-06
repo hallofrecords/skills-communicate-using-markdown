@@ -1,3 +1,3 @@
-# New Content
+# Written in Markdown 
 
-is this where I add my commit message? 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
